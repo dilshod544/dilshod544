@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dilshod Isomov's Homepage</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Dilshod Isomov</h1>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>My name is <strong>Dilshod Isomov</strong>. I am currently studying at <strong>Inha University in Tashkent</strong>. My family consists of five people: my father, my mother, my two sisters, and myself.</p>
+    </section>
+
+    <section>
+        <h2>My Classes</h2>
+        <ul>
+            <li>Introduction to IT</li>
+            <li>Calculus</li>
+            <li>Physics</li>
+            <li>Programming Basics</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>My Favorite Movies and Shows</h2>
+        <ol>
+            <li><a href="https://www.imdb.com/title/tt0111161/" target="_blank">The Shawshank Redemption</a></li>
+            <li><a href="https://www.imdb.com/title/tt0133093/" target="_blank">The Matrix</a></li>
+            <li><a href="https://www.imdb.com/title/tt0110357/" target="_blank">The Lion King</a></li>
+        </ol>
+    </section>
+
+    <section>
+        <h2>How I Feel</h2>
+        <p>When I’m happy:</p>
+        <img src="https://via.placeholder.com/200x150?text=Happy+Image" alt="Happy Image" width="200">
+        <p>When I’m sad:</p>
+        <img src="https://via.placeholder.com/200x150?text=Sad+Image" alt="Sad Image" width="200">
+    </section>
+
+    <section>
+        <h2>About My Neighbor</h2>
+        <p>My neighbor, who sits next to me in class, is a very friendly person and is always willing to help others.</p>
+    </section>
+</body>
+</html>
